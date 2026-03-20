@@ -1,3 +1,1 @@
-hello
-
-fghj
+print("Hello World")
